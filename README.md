@@ -1,4 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img src="https://komarev.com/ghpvc/?username=codegrills&label=Profile%20views&color=0e75b6&style=flat"
+
 <!--
 **god/god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
